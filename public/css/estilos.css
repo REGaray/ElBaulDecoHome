@@ -1,0 +1,62 @@
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color:blanchedalmond!important;
+}
+
+.imagenCirculo{
+    border-radius: 50%;
+}
+
+.d-md-flex {
+    display: flex!important;
+    justify-content: space-around;
+}
+
+.display-2 {
+    font-size: 2.5rem;
+}
+
+.paddingCarrousel{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.paddingCard{
+    padding: 1rem;
+}
+
+.imagenAndrea{
+    width: 300px;
+    border-radius: 10px;
+}
+
+.paddingImagenAndrea{
+    padding-left: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.paddingTextQuienesSomos{
+    padding: 1rem;
+}
+
+.mapaPropiedades{
+    padding: 2rem;
+    border-radius: 30px;
+}
+
+.infoPropiedades{
+    flex: content;
+    justify-content:space-evenly;
+}
+
+.linkCard{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color:crimson!important;
+}
